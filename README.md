@@ -1,4 +1,4 @@
-<p>Step</p>
+<p>Jika menggunakan migration</p>
 <ul>
     <li>1. php artisan migrate</li>
     <li>2. php artisan db:seed</li>
