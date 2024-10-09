@@ -1,6 +1,8 @@
 <p>Step</p>
-1. php artisan migrate
-2. php artisan db:seed
-3. login
+<ul>
+    <li>1. php artisan migrate</li>
+    <li>2. php artisan db:seed</li>
+    <li>3. login
     - email : super.admin@example.com
-    - password : admin
+    - password : admin</li>
+</ul>
